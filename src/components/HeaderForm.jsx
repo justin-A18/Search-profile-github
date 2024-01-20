@@ -17,7 +17,7 @@ export const HeaderForm = ({ onGetUserName }) => {
 	};
 
 	return (
-		<header className='w-full h-60 bg-hero-img bg-cover flex  justify-center pt-14'>
+		<header className='w-full h-60 bg-hero-img bg-cover flex bg-slate-900 justify-center pt-14'>
 			<form
 				className='w-[90%] md:w-[40rem] rounded-md bg-[#20293A] h-[3.5rem] p-3'
 				onSubmit={handleFormSubmit}>
