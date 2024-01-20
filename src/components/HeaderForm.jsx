@@ -23,7 +23,7 @@ export const HeaderForm = ({ onGetUserName }) => {
 				onSubmit={handleFormSubmit}>
 				<div className='w-full h-full flex relative'>
 					<img
-						src='./src/assets/Search.svg'
+						src='./public/Search.svg'
 						alt='logo'
 						className='absolute top-1'
 					/>

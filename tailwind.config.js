@@ -4,7 +4,7 @@ export default {
 	theme: {
 		extend: {
 			backgroundImage: {
-				'hero-img': "url('./src/assets/hero-image-github-profile.png')",
+				'hero-img': "url('./public/hero-image-github-profile.png')",
 			},
 			fontFamily: {
 				vietnam: "'Be Vietnam Pro', sans-serif",
